@@ -3,7 +3,8 @@
 	url = https://github.com/cloudfoundry/blobstore_url_signer
 [submodule "src/cloud_controller_ng"]
 	path = src/cloud_controller_ng
-	url = https://github.com/cloudfoundry/cloud_controller_ng
+	url = https://github.com/cloudsome-io/cloud_controller_ng
+    branch = fog-openstack-update
 [submodule "src/code.cloudfoundry.org/tps"]
 	path = src/code.cloudfoundry.org/tps
 	url = https://github.com/cloudfoundry/tps
@@ -11,4 +12,4 @@
 [submodule "src/code.cloudfoundry.org/cc-uploader"]
 	path = src/code.cloudfoundry.org/cc-uploader
 	url = https://github.com/cloudfoundry/cc-uploader
-	branch = master
+	branch = main
